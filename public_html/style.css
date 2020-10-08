@@ -1,0 +1,67 @@
+
+* {
+	font-family: 'Grandstander', cursive;
+	font-size: 20px;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+body {
+	margin: 20px;
+	background: #f5f5f5;
+
+}
+
+input{
+	margin: 5px;
+	padding: 10px;
+	cursor: pointer;
+	border:none;
+	border-radius: 10px;
+}
+
+button{
+	background: lightgrey;
+	margin: 5px;
+	padding: 10px;
+	cursor: pointer;
+	border:none;
+	border-radius: 10px;
+}
+
+input:hover{
+	border: solid;
+}
+
+button:hover{
+	border: solid;
+}
+
+.right{
+	float: right;
+}
+
+.lightblue{
+	background: lightblue;
+}
+
+.lightblue_right{
+	background: lightblue;
+	color: black;
+	padding:5px; 
+	padding-right: 10px; 
+	padding-left: 10px; 
+}
+
+.reply{
+	background: green;
+	color: white;
+	padding:5px; 
+	padding-right: 10px; 
+	padding-left: 10px; 
+}
+
