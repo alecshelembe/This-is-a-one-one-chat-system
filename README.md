@@ -1,4 +1,6 @@
-# One-on-one-KINGCHAT
+# One-one Chat
+
+(PHP Debuggin needed)
 
 Hello this is a chat website 
 To get started you will need XAMPP PHPMYADMIN and a browser I used gooogle chrome
